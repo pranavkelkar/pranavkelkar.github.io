@@ -9,63 +9,63 @@ categories: tech configuration
 
 Dit = Git for dot files
 
-## References
-
-https://www.atlassian.com/git/tutorials/dotfiles
-
 ## Setup
 
 1. Create empty repository `.dit` on Github website.
 
 2. Clone repository in your home directory.
 
-```bash
-cd $HOME
-git clone git@github.com:pranavkelkar/.dit.git
-# Cloning into '.dit'...
-# warning: You appear to have cloned an empty repository.
-```
+    ```bash
+    cd $HOME
+    git clone git@github.com:pranavkelkar/.dit.git
+    # Cloning into '.dit'...
+    # warning: You appear to have cloned an empty repository.
+    ```
 
 3. Create bare repository.
 
-```bash
-git init --bare $HOME/.dit
-# Initialized empty Git repository in /home/pranav/.dit/
-```
+    ```bash
+    git init --bare $HOME/.dit
+    # Initialized empty Git repository in /home/pranav/.dit/
+    ```
 
 4. Create alias
 
-```bash
-# Add below lines to your ~/.bashrc
+    ```bash
+    # Add below lines to your ~/.bashrc
 
-# dit = git for dot files
-alias dit='/usr/bin/git --git-dir=$HOME/.dit/ --work-tree=$HOME'
-```
+    # dit = git for dot files
+    alias dit='/usr/bin/git --git-dir=$HOME/.dit/ --work-tree=$HOME'
+    ```
 
 5. Source updated .bashrc file `source ~/.bashrc`.
 
 6. Hide files which you are not explicitly tracking.
 
-```bash
-dit config --local status.showUntrackedFiles no
-```
+    ```bash
+    dit config --local status.showUntrackedFiles no
+    ```
 
 7. Add your dot files & commit.
 
-```bash
-dit add .bashrc
+    ```bash
+    dit add .bashrc
 
-dit commit -m "Add bashrc"
-```
+    dit commit -m "Add bashrc"
+    ```
 
 8. Add remote origin
 
-```bash
-dit remote add origin git@github.com:pranavkelkar/.dit.git
-```
+    ```bash
+    dit remote add origin git@github.com:pranavkelkar/.dit.git
+    ```
 
 9. Push
 
-```bash
-dit push -u origin master
-```
+    ```bash
+    dit push -u origin master
+    ```
+
+## References
+
+1. [https://www.atlassian.com/git/tutorials/dotfiles](https://www.atlassian.com/git/tutorials/dotfiles)
