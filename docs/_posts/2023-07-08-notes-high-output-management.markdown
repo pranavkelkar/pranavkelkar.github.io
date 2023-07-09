@@ -6,6 +6,14 @@ Author: Andrew Grove
 
 Year: 1983
 
+## Index
+- [Introduction](#introduction)
+- [The Basics of Production](#the-basics-of-production)
+- [Managing the Factory](#managing-the-factory)
+- [Managerial Leverage](#managerial-leverage)
+- [Meetings](#meetings)
+- [Word Meanings](#word-meanings)
+
 ## Introduction
 
 **What is a good, solid management approach?**
@@ -30,12 +38,17 @@ People who may not supervise anyone directly but who even without strict organiz
 
 3. A team will perform well only if peak performance is elicited from the individuals in it.
 
+## The Basics of Production
+
+## Managing the Factory
+
+## Managerial Leverage
+
+## Meetings
+
 ## Word Meanings
 
-arcane: known to very few people and therefore difficult to understand.
-
-maven: an expert
-
-decree: an official order given by a government, a ruler
-
-elicited: evoke or draw out from someone
+- arcane: known to very few people and therefore difficult to understand.
+- decree: an official order given by a government, a ruler
+- elicited: evoke or draw out from someone
+- maven: an expert
