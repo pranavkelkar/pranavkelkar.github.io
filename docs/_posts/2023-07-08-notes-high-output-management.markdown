@@ -8,15 +8,15 @@ Year: 1983
 
 ## Introduction
 
-What is a good, solid management approach?
+**What is a good, solid management approach?**
 
 To have energetic, committed people sitting down together, looking at problems, and figuring out ways to solve them.
 
-Who are middle managers?
+**Who are middle managers?**
 
 Between the first-line supervisor on the shop floor and the chief executive officer of a company is a large group called middle managers who are the muscle and bone of every sizable organization.
 
-Concept of know-how managers
+**Concept of know-how managers**
 
 People who may not supervise anyone directly but who even without strict organizational authority affect and influence the work of others. These know-how managers are sources of knowledge, skills, and understanding to people around them in an organization. They are specialists and experts of some sort who act like consultants to other members of the organization. The more our world becomes information and service oriented, the more importance know-how managers will acquire as members of middle management.
 
