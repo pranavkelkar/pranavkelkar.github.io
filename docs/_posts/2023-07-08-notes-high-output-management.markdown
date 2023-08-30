@@ -31,6 +31,10 @@ As a middle manager, of any sort, you are in effect a chief executive of an orga
 
 ## The Basics of Production
 
+**Basic Requirements of Production**
+
+To build and deliver products in response to the demands of the customer at a *scheduled* delivery time, at an *acceptable* quality level, and at the *lowest* possible cost.
+
 ## Managing the Factory
 
 ## Managerial Leverage
