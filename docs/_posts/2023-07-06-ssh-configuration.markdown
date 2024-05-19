@@ -1,4 +1,9 @@
-# SSH Configuration
+---
+layout: post
+title:  "SSH Configuration"
+date:   2023-07-06 10:00:06 +0530
+categories: configuration
+---
 
 ## Client Side Settings - Part 1
 
@@ -29,7 +34,9 @@ Host testserver
 
 1. Append public key generated at Client Side - Step 1 to  `~/.ssh/authorized_keys`.
 
-2. Edit `/etc/ssh/sshd_config` to edit configuration of SSH server. Run `sudo systemctl restart sshd` to apply configuration.
+2. Edit `/etc/ssh/sshd_config` to edit configuration of SSH server.
+
+3. Run `sudo systemctl restart sshd` to restart SSH server (if required).
 
 ## Client Side - Part 2
 

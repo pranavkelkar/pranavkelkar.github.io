@@ -2,10 +2,8 @@
 layout: post
 title:  "Dotfiles"
 date:   2023-06-26 08:45:00 +0530
-categories: tech configuration
+categories: configuration
 ---
-
-# Dit
 
 Dit = Git for dot files
 
@@ -17,7 +15,7 @@ Dit = Git for dot files
 
     ```bash
     cd $HOME
-    git clone git@github.com:pranavkelkar/.dit.git
+    git clone git@github.com:harrypotter/.dit.git
     # Cloning into '.dit'...
     # warning: You appear to have cloned an empty repository.
     ```
@@ -26,7 +24,7 @@ Dit = Git for dot files
 
     ```bash
     git init --bare $HOME/.dit
-    # Initialized empty Git repository in /home/pranav/.dit/
+    # Initialized empty Git repository in /home/harry/.dit/
     ```
 
 4. Create alias
@@ -57,7 +55,7 @@ Dit = Git for dot files
 8. Add remote origin
 
     ```bash
-    dit remote add origin git@github.com:pranavkelkar/.dit.git
+    dit remote add origin git@github.com:harrypotter/.dit.git
     ```
 
 9. Push
