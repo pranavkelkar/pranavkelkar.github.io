@@ -1,0 +1,2 @@
+Aspect Ratio should be 4:3 or 3:4.
+Longest side should be 320 px.
