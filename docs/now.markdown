@@ -69,9 +69,16 @@ My younger brother Nitish was born in 1998.
 
 ## 1993 - 1995
 
-I was really smol.
+I was really smol. I don't recall what I did.
 
-I don't recall what I did.
+Alphalinks (the colorful elephants) was my first toy. The elephants trunks and tails connect to form links.
+
+I still have this toy but I don't play with it anymore.
+
+![Baby Me](/assets/images/baby_me.jpeg)
+![First Toy](/assets/images/first_toy.jpeg)
+
+*Baby me and my first toy.*
 
 ## 1993
 
