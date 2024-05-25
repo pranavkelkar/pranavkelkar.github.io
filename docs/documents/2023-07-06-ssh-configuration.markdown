@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "SSH Configuration"
 date:   2023-07-06 10:00:06 +0530
 categories: configuration

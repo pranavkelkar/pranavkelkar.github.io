@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Dotfiles"
 date:   2023-06-26 08:45:00 +0530
 categories: configuration

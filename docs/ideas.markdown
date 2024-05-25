@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Now
-permalink: /now/
+title: Ideas
+permalink: /ideas/
 published: true
 ---
 
